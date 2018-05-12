@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36031
     wikipedia: http://en.wikipedia.org/wiki/Robert_E._Howard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42182#The-Hyborian-Age
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2013-02-24'
 gutenberg_type: Text
